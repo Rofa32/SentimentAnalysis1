@@ -9,8 +9,6 @@ Original file is located at
 Installations
 """
 
-!pip install gradio --quiet
-!pip install transformers --quiet
 
 """#Let's build a demo for a sentiment analysis task !
 
